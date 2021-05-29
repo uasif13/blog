@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Asif's Blog]]></title><description><![CDATA[Blog on Daily Insights]]></description><link>https://uasif13.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 May 2021 23:12:51 GMT</lastBuildDate><item><title><![CDATA[I AM LIVE!!!]]></title><description><![CDATA[After completing a tutorial on github actions, I have added an automated script to always build the website for every push to main. This…]]></description><link>https://uasif13.github.io/weAreLive/</link><guid isPermaLink="false">https://uasif13.github.io/weAreLive/</guid><pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After completing a tutorial on github actions, I have added an automated script to always build the website for every push to main. This will make sure that the blog is constantly updated.&lt;/p&gt;
+&lt;p&gt;I want to build out a projects page as well that showcases tiles with succient descriptions of my work. &lt;/p&gt;
+&lt;p&gt;I want to build out a lot of React pages and applications and become a boss in CSS. &lt;/p&gt;
+&lt;p&gt;Lets build a couple showcase projects with React. I have three on my mind.&lt;/p&gt;
+&lt;p&gt;The first one is to use the Gmail API and Mapbox API to create a dashboard of Promed Digest Summaries. I hope to have a map interface and a filter that allows the user to choose a specific disease or time period of alerts on merging diseases.&lt;/p&gt;
+&lt;p&gt;The second one is to make a poker game. This one is to test and learn the advanced css techniques that folks seem to use which could easily replace most css frameworks such as Bootstrap. I plan on first making the core game and then adding the following animations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Shuffling&lt;/li&gt;
+&lt;li&gt;Dealing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;More to come.&lt;/p&gt;
+&lt;p&gt;These would be deployed to &lt;a href=&quot;http://uasif13.github.io/projects/surveillance&quot;&gt;http://uasif13.github.io/projects/surveillance&lt;/a&gt; and &lt;a href=&quot;http://uasif13.github.io/projects/poker&quot;&gt;http://uasif13.github.io/projects/poker&lt;/a&gt;. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[First Post]]></title><description><![CDATA[This will be the first post of my daily blog. 
+The goals of this daily blog are to: Constantly develop new skills and insights in software…]]></description><link>https://uasif13.github.io/firstPost/</link><guid isPermaLink="false">https://uasif13.github.io/firstPost/</guid><pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This will be the first post of my daily blog.
+The goals of this daily blog are to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Constantly develop new skills and insights in software development&lt;/li&gt;
+&lt;li&gt;Focus on broad impact in the environment, government, and social justice&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let’s get fighting.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 415px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8aa702d2c7a2697d97f8f0180a18d662/3d9d6/fist.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 86.70886075949367%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB7MKTaYC+AA//xAAbEAEAAgIDAAAAAAAAAAAAAAABAhEAAxASMv/aAAgBAQABBQK1cg3FJdhR1eOf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAAiAhUf/aAAgBAQAGPwKWFmJ117w6hS3Awefr4//EABwQAAICAgMAAAAAAAAAAAAAAAERACEQMUFRYf/aAAgBAQABPyEk/GBZpwAHZNzCHNq4Mo7DxS1CHS3HoS7KPeOcf//aAAwDAQACAAMAAAAQgwA8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHxABAAEEAgMBAAAAAAAAAAAAAREAITFBEFFhgbGR/9oACAEBAAE/ECMAAuJchwfmqt4whZTHhIPUVlNYO91YSFljuPjQCMWAZCLTvrTQBhSwRCfnXiOHDj//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Fighting Fist&quot;
+        title=&quot;Fighting Fist&quot;
+        src=&quot;/blog/static/8aa702d2c7a2697d97f8f0180a18d662/3d9d6/fist.jpg&quot;
+        srcset=&quot;/blog/static/8aa702d2c7a2697d97f8f0180a18d662/ff44c/fist.jpg 158w,
+/blog/static/8aa702d2c7a2697d97f8f0180a18d662/a6688/fist.jpg 315w,
+/blog/static/8aa702d2c7a2697d97f8f0180a18d662/3d9d6/fist.jpg 415w&quot;
+        sizes=&quot;(max-width: 415px) 100vw, 415px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
