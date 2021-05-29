@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/blog",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Asif's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Asif Uddin`,
+      summary: `who studied at Stevens and enjoys building software`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Blog on Daily Insights`,
+    siteUrl: `https://uasif13.github.io`,
     social: {
-      twitter: `kylemathews`,
+      github: `uasif13`,
     },
   },
   plugins: [
